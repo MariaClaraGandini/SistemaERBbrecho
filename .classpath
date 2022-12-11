@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/lib/javax.el-3.0.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/javax.servlet.jsp-2.3.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/javax.servlet.jsp-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/javax.servlet.jsp.jstl-1.2.0.v201105211821.jar"/>
+	<classpathentry kind="lib" path="src/lib/javax.servlet.jsp.jstl-1.2.2.jar"/>
+	<classpathentry kind="lib" path="src/lib/jetty-continuation-9.4.19.v20190610.jar"/>
+	<classpathentry kind="lib" path="src/lib/jetty-http-9.4.19.v20190610.jar"/>
+	<classpathentry kind="lib" path="src/lib/jetty-io-9.4.19.v20190610.jar"/>
+	<classpathentry kind="lib" path="src/lib/jetty-jsp-9.2.25.v20180606.jar"/>
+	<classpathentry kind="lib" path="src/lib/jetty-schemas-3.1.M0.jar"/>
+	<classpathentry kind="lib" path="src/lib/jetty-security-9.4.19.v20190610.jar"/>
+	<classpathentry kind="lib" path="src/lib/jetty-server-9.4.19.v20190610.jar"/>
+	<classpathentry kind="lib" path="src/lib/jetty-servlet-9.4.19.v20190610.jar"/>
+	<classpathentry kind="lib" path="src/lib/jetty-servlets-9.4.19.v20190610.jar"/>
+	<classpathentry kind="lib" path="src/lib/jetty-util-9.4.19.v20190610.jar"/>
+	<classpathentry kind="lib" path="src/lib/jetty-webapp-9.4.19.v20190610.jar"/>
+	<classpathentry kind="lib" path="src/lib/jetty-xml-9.4.19.v20190610.jar"/>
+	<classpathentry kind="lib" path="src/lib/mysql-connector-java-5.1.44-bin.jar"/>
+	<classpathentry kind="lib" path="src/lib/org.eclipse.jdt.core-3.8.2.v20130121.jar"/>
+	<classpathentry kind="lib" path="src/lib/spring-aop-5.3.6.jar"/>
+	<classpathentry kind="lib" path="src/lib/spring-beans-5.3.6.jar"/>
+	<classpathentry kind="lib" path="src/lib/spring-context-5.3.6.jar"/>
+	<classpathentry kind="lib" path="src/lib/spring-core-5.3.6.jar"/>
+	<classpathentry kind="lib" path="src/lib/spring-expression-5.3.6.jar"/>
+	<classpathentry kind="lib" path="src/lib/spring-jcl-5.3.6.jar"/>
+	<classpathentry kind="lib" path="src/lib/spring-web-5.3.6.jar"/>
+	<classpathentry kind="lib" path="src/lib/spring-webmvc-5.3.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

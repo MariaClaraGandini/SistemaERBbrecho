@@ -1,0 +1,87 @@
+.pagamentovenda{
+    display: none;
+  }
+  #produtovenda{
+    display:block
+  }
+  
+  .margin{
+    margin-top: 5%;
+    height: 530px;
+  }
+ 
+  .abas-navegacao ul li button{
+    padding-right: 15%;
+  }
+  .abas-navegacao ul li button:active{
+    background-color: #0bde97;
+    color:white;
+  }
+  #produtobotao{
+    background-color: #0bde97;
+    color:white
+  }
+  #pagamentobotao{
+    background-color:#f4f4f4;
+  }
+  .qtdmargin{
+padding-left:9%;
+}
+ .cadastrarbotao{
+    width:13em;
+    margin-top: 2%;
+    
+  }
+  .colorbutton{
+    background-color: #0bde97;
+    color: white;
+  }
+  .colorbuton:hover{
+    background-color: #0bc889;
+  }
+  .sombra{
+  box-shadow: 0px 0px 0.9px rgb(174, 174, 174)
+ }
+ .tamanhodiv{
+  width:5rem;
+ }
+ @media (max-width:360px){
+  .containertodo{
+    width:100%;
+    margin:0;
+    padding:0;
+  }
+ }
+@media (max-width:824px){
+  .containertodo{
+    display: block;
+  }
+}
+  @media (min-width:798px){
+  .lado2{
+    width: 90%px;
+    overflow-y: auto;
+    border-left-width: 2px ;
+  }
+  .valortotal{
+    width: 201.3%;
+  }
+  .cancelarbotao{
+width:13em;
+margin-top: 2%;
+margin-right: 0.5%;
+}
+.cadastrarbotao{
+    width:15em;
+    margin-right: 0.5%;
+ }
+  /* .sombra{
+  box-shadow: 1px 0px 2px rgb(211, 211, 211)
+ } */
+ }
+  .lado2 h1{
+    padding-left: 2%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+  }
+ 
